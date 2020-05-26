@@ -153,7 +153,6 @@ C:\Repos\data-2go\web\web\bin\Debug\netstandard2.1\System.Runtime.CompilerServic
 C:\Repos\data-2go\web\web\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
 C:\Repos\data-2go\web\web\bin\Debug\netstandard2.1\System.Text.Json.dll
 C:\Repos\data-2go\web\web\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
-C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\web.csprojAssemblyReference.cache
 C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\web.AssemblyInfoInputs.cache
 C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\web.AssemblyInfo.cs
 C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\web.csproj.CoreCompileInputs.cache
@@ -364,4 +363,4 @@ C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\web.dll
 C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\web.pdb
 C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
-C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\integrity\KrGBqZjKFm_fsKxulN2YTgF24KkhzEBR2znjKZz3mlA=.hash
+C:\Repos\data-2go\web\web\obj\Debug\netstandard2.1\integrity\rfWJ-npvvtEDhIifWrKhq0EvgEufjHfN31pWFoTECRE=.hash

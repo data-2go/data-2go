@@ -1,6 +1,14 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": ".nojekyll"
+    },
+    {
+      "hash": "sha256-MT23D1T5+ystR7oHRwV7fLmuwzmi1Vk3GDcQqFQGqLY=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-BHNhq10T\/9aejlrFEhS\/NYeYS3Djwv\/pqg2xUjQCx\/s=",
       "url": "css\/app.css"
     },
@@ -57,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-Abfcq+m88l8eQtGl4RRr3qoZzwm0aS7gjD45xyms\/Ck=",
+      "hash": "sha256-CJHiFGDfKSUoZBHfR61cI\/mfZCvDLBrTceYfzmz8Qfw=",
       "url": "index.html"
     },
     {

@@ -291,7 +291,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KrGBqZjKFm_fsKxulN2YTgF24KkhzEBR2znjKZz3mlA=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rfWJ-npvvtEDhIifWrKhq0EvgEufjHfN31pWFoTECRE=.hash",
       "Source": "C:\\Repos\\data-2go\\web\\web\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }
