@@ -5,9 +5,9 @@
 [![Actions Status](https://github.com/fernandreu/blazor-pages/workflows/gh-pages/badge.svg)](https://github.com/fernandreu/blazor-pages/actions)
 -->
 
-This project is an example of using Azure Pipelines / GitHub Actions to automatically deploy a client-side
-Blazor app to Github Pages. For a live demo, check the following link:
+Data2Go impulsa la transformación hacia un mundo sin incertidumbre y acceso a nuevas oportunidades mediante la data. 
 
+<!--
 https://fernando.andreu.info/blazor-pages/
 
 Microsoft Docs already contains a [general overview](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/blazor/client-side?view=aspnetcore-3.1#github-pages)
@@ -67,3 +67,4 @@ The `gh-pages` branch **must** exist already for the deployment to be successful
 is a temporary limitation in the pipeline configuration).
 
 In the case of GitHub Actions, only a single secret is needed: `ACCESS_TOKEN`, equivalent to `GitHubPAT` above. 
+-->
