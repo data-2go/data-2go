@@ -1,7 +1,7 @@
 # Blazor Pages
 
 [![Azure Status](https://dev.azure.com/fernandreu-public/BlazorPages/_apis/build/status/fernandreu.blazor-pages?branchName=master)](https://dev.azure.com/fernandreu-public/BlazorPages/_build/latest?definitionId=6?branchName=master)
-[![Actions Status](https://https://github.com/data-2go/data-2go/workflows/gh-pages/badge.svg)](https://github.com/github.com/data-2go/actions)
+[![Actions Status](https://https://github.com/data-2go/data-2go/workflows/data-2go/badge.svg)](https://github.com/github.com/data-2go/actions)
 
 
 This project is an example of using Azure Pipelines / GitHub Actions to automatically deploy a client-side
