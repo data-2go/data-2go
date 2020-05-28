@@ -1,7 +1,7 @@
 # Blazor Pages
 
-#[![Azure Status](https://dev.azure.com/papfernandreu-public/BlazorPages/_apis/build/status/fernandreu.blazor-pages?branchName=master)](https://dev.azure.com/fernandreu-public/BlazorPages/_build/latest?definitionId=6?branchName=master)
-#[![Actions Status](https://https://github.com/data-2go/data-2go/workflows/data-2go/badge.svg)](https://github.com/github.com/data-2go/actions)
+##[![Azure Status](https://dev.azure.com/papfernandreu-public/BlazorPages/_apis/build/status/fernandreu.blazor-pages?branchName=master)](https://dev.azure.com/fernandreu-public/BlazorPages/_build/latest?definitionId=6?branchName=master)
+##[![Actions Status](https://https://github.com/data-2go/data-2go/workflows/data-2go/badge.svg)](https://github.com/github.com/data-2go/actions)
 
 
 Data2Go tiene como propósito impulsar  la transformación hacia un mundo sin incertidumbre y acceso a nuevas oportunidades mediante la data. 
